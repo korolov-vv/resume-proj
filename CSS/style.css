@@ -23,13 +23,13 @@ body{
 
 .sidebar{
     background-color: #1e2939;
-    width: /**370px**/30%;
+    width: 370px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
 .my-photo-container{
-    width: /**370px**/100%;
+    width: 370px;
 }
 
 .about-me-container{
